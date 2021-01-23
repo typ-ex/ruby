@@ -1,0 +1,6 @@
+[rails]
+10.90.0.97
+
+[rails:vars]
+ansible_user=vagrant
+ansible_ssh_private_key_file=/root/ruby/.vagrant/machines/default/virtualbox/private_key
